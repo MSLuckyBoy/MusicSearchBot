@@ -24,8 +24,8 @@ def search(url):
 '''
 
 
-access_key = "3a529d0cb27721880774d99355ec488e"
-access_secret = "benLAMqidbHs5C59dqfI1e4WYYsUSlfWIPNxF7G9"
+access_key = "<access_key>"
+access_secret = "<access_secret>"
 requrl = "http://identify-eu-west-1.acrcloud.com/v1/identify"
 
 http_method = "POST"
